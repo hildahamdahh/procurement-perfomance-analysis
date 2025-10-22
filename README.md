@@ -30,10 +30,10 @@ To assess the effectiveness of procurement operations through:
 
 ## 📑 Query and Analysis  
 All SQL queries used in this project are stored in the file:  
-📄 [`proc_analysis.sql`](queries/proc_analysis.sql)  
+📄 [`proc_analysis.sql`](📊 queries/proc_analysis.sql)  
 
 For detailed explanations of the queries, transformation logic, and analytical results, please refer to:  
-📘 [`Procurement Performance Analysis.pdf`](analysis-report/Procurement%20Performance%20Analysis.pdf)  
+📘 [`Procurement Performance Analysis.pdf`](📘 analysis-report/Procurement%20Performance%20Analysis.pdf)  
 
 ---
 
@@ -74,7 +74,7 @@ Visualized in **Power BI**, connected to **BigQuery** for real-time analytics.
 ## 👩‍💻 Author  
 **Hilda Hamdah Husniyyah**   
 Data Analyst | Business Intelligence Enthusiast  
-📧 [your.email@example.com] • 🌐 [LinkedIn/GitHub Profile Link]  
+📧 hildahamdahusniyyah22@gmail.com • 🌐 https://www.linkedin.com/in/hilda-hamdah-h/ 
 
 ---
 
